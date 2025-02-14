@@ -38,3 +38,33 @@ export default App2
 // item-list__header
 
 // Tag vazia em React se chama Fragment ou Fragmento
+
+// Componentes recebem "props"
+
+ {/* {items === 5 ? (
+                    <>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                    </>
+                    ) : (
+                     <>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                        <SingleItem/>
+                    </>
+                )}    */}
+
+// {Array(items).fill().map((currentValue, index) => <SingleItem key={`${title}-${index}`}/>)}
+
+// Spread operator
+//  ...
