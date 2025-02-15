@@ -13,6 +13,9 @@ export default App2
 // Arrow Function
 // const App2 = () => <h1>Olá, Mundo!</h1>;
 
+// Nomeação de classes
+// kebab-case
+
 // Nomeação de componentes
 // PascalCase
 
@@ -68,3 +71,8 @@ export default App2
 
 // Spread operator
 //  ...
+
+// Quando componentes se re-renderizão
+// Uma das ocasiões é quando uma váriavel de estado usada por esse componente é atualizada
+
+// Hook - useState
